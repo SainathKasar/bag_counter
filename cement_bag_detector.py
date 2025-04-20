@@ -1,7 +1,7 @@
 import cv2 as cv
 import numpy as np
 
-video=cv.VideoCapture("F://Videos//20220710_121852.mp4")
+video=cv.VideoCapture("F://Videos//20220710_121852.mp4") #your video file
 fix_frame=300
 #properties of rectangle
 min_width=800
